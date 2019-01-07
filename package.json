@@ -1,0 +1,25 @@
+{
+  "name": "Swiper",
+  "version": "1.0.0",
+  "description": "React JS Swiper like Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinacarlosdev/Swiper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molinacarlosdev/Swiper/issues"
+  },
+  "homepage": "https://github.com/molinacarlosdev/Swiper#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.3"
+  }
+}
